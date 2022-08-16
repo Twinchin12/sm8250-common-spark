@@ -328,6 +328,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_BOOT_JARS += \
     oplus-fwk
 
+# Oplus-fwk
+PRODUCT_PACKAGES += \
+    oplus-fwk
+
+PRODUCT_BOOT_JARS += \
+    oplus-fwk
+
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
