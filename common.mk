@@ -313,7 +313,7 @@ PRODUCT_PACKAGES += \
     FrameworksResTarget \
     OPlusExtrasResCommon \
     OPlusFrameworksResCommon \
-    OPlusSettingsResCommon
+    OPlusSettingsResCommon \
     OPlusSystemUIResCommon \
     OnePlusGalleryOverlay \
     OPSoundTunerOverlay \
